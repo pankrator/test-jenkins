@@ -1,0 +1,19 @@
+{
+  "name": "test-jenkins",
+  "version": "1.0.0",
+  "description": "Test jenkins poll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankrator/test-jenkins.git"
+  },
+  "author": "pankrator",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pankrator/test-jenkins/issues"
+  },
+  "homepage": "https://github.com/pankrator/test-jenkins#readme"
+}
